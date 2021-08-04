@@ -1,1 +1,0 @@
-# sksk713.github.io
