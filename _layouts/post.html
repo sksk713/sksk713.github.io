@@ -34,24 +34,16 @@ layout: default
   </div>
 </article>
 
-<div class="arrow-wrapper">
-  <hr >
-  <div class="row">
-    <div class="col-sm-6 col-xs-6 navigation text-left">
-        {% if page.next %}
-          <a class="btn btn-orange" href="{{page.next.url}}">← Newer</a>
-        {% else %}
-          <span class="btn btn-orange disabled" hidden>← Newer</span>
-        {% endif %}
-    </div>
-    <div class="col-sm-6 col-xs-6 navigation text-right">
-        {% if page.previous %}
-          <a class="btn btn-orange" href="{{page.previous.url}}">Older →</a>
-        {% else %}
-          <span class="btn btn-orange disabled" hidden>Older →</span>
-        {% endif %}
-    </div>
-  </div>
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">Previous</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">Next</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
+</div>
 
   {%- if jekyll.environment != 'dev' and site.disqushandler -%}
     {%- include disqus_comments.html -%}

@@ -10,13 +10,24 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         sksk713
-  # url:          https://chester.how
+  url:          https://sksk713.github.io/
   email:        sskk713@ajou.ac.kr
 
 # Build settings
 markdown:       kramdown
 include:
   - _pages
+
+
+footer-links:
+  email: sskk713@ajou.ac.kr
+  # facebook: 
+  github: github.com/sksk713
+  instagram: s713k
+#  linkedin:
+#  pinterest:
+  rss: # just type anything here for a working RSS icon
+
 
 # Assets
 sass:
