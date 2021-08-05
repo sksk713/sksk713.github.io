@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+      {%- if page.tags -%}
+        <span class="tag-sep">|</span>
+        {%- for tag in page.tags -%}
+          <span itemprop="tag" itemscope>
+            <span class="p-tag h-card" itemprop="tag">
+              {{ tag }}
+              {%- unless tag == page.tags.last -%}
+                ,
+              {%- endunless -%}
+            </span>
+          </span>
+        {%- endfor -%}
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
+
+<div class="arrow-wrapper">
+  <hr >
+  <div class="row">
+    <div class="col-sm-6 col-xs-6 navigation text-left">
+        {% if page.next %}
+          <a class="btn btn-orange" href="{{page.next.url}}">← Newer</a>
+        {% else %}
+          <span class="btn btn-orange disabled" hidden>← Newer</span>
+        {% endif %}
+    </div>
+    <div class="col-sm-6 col-xs-6 navigation text-right">
+        {% if page.previous %}
+          <a class="btn btn-orange" href="{{page.previous.url}}">Older →</a>
+        {% else %}
+          <span class="btn btn-orange disabled" hidden>Older →</span>
+        {% endif %}
+    </div>
+  </div>
+
+  {%- include mathjax.html -%}
+
+  {%- if jekyll.environment != 'dev' and site.disqushandler -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</div>
