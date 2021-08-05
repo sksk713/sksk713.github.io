@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "컬렉션 프레임워크"
+title: "05.컬렉션 프레임워크"
 author: "SangKyenog Lee"
 tags: Java
 ---

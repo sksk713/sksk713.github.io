@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "인터페이스/내부클래스"
+title: "04.인터페이스/내부클래스"
 author: "SangKyenog Lee"
 tags: Java
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "제어자/다형성/추상클래스"
+title: "03.제어자/다형성/추상클래스"
 author: "SangKyenog Lee"
 tags: Java
 ---
