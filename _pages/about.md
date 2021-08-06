@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resume"
+title: "About Me"
 # author: "SangKyeong Lee"
 permalink: /about/
 ---
