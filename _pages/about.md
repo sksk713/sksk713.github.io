@@ -9,8 +9,6 @@ permalink: /about/
 
 # Tech
 
-# Project
-
 # Experience
 
 # Education
