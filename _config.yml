@@ -1,7 +1,7 @@
 # Site settings
 title:          Record Everything about Dev!
 description:    "TIL 및 기술 블로그"
-baseurl:        "/home"
+baseurl:        ""
 url:            "https://sksk713.github.io"
 
 # Google Analytics
