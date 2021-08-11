@@ -18,13 +18,15 @@ permalink: /project/
 ### Tech
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" align="left"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" align="left"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" align="left"><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white" align="left"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" align="left"><br>
 
-### Github Link
+### Github
 [Github Link](https://github.com/ajou-nomad/nomad-backend)
 
 ## 02.StudyShare
 ### Summary
 
 ### Tech
+
+### Github
 
 ---
 <br>
@@ -41,6 +43,8 @@ permalink: /project/
 
 ### Summary
 
+### Github
+
 ### Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
@@ -54,12 +58,10 @@ permalink: /project/
 ### Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
-### 1번 Github Link
-[1번 Github Link](https://github.com/sksk713/os/tree/main/pa1)
-### 2번 Github Link
-[2번 Github Link](https://github.com/sksk713/os/tree/main/pa2)
-### 3번 Github Link
-[3번 Github Link](https://github.com/sksk713/os/tree/main/pa3)
+### Github
+[1번 Github Link](https://github.com/sksk713/os/tree/main/pa1)<br>
+[2번 Github Link](https://github.com/sksk713/os/tree/main/pa2)<br>
+[3번 Github Link](https://github.com/sksk713/os/tree/main/pa3)<br>
 
 ## 03.Fixed-Point-Calculator
 
@@ -70,6 +72,6 @@ Fixed-Point의 다양한 연산들을 Macro로 구현하면서 Linux Programming
 ### Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
-### Github Link
+### Github
 [Github Link](https://github.com/sksk713/realcoding-fixedpoint)
 ---
