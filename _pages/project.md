@@ -5,7 +5,7 @@ title: "Project"
 permalink: /project/
 ---
 
-# *BackEnd Project*
+# BackEnd Project
 
 ---
  
@@ -18,7 +18,8 @@ permalink: /project/
 ### Tech
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" align="left"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" align="left"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" align="left"><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white" align="left"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" align="left"><br>
 
-# [GitHub Link](https://github.com/ajou-nomad/nomad-backend)
+### Github Link
+[Github Link](https://github.com/ajou-nomad/nomad-backend)
 
 ## 02.StudyShare
 ### Summary
@@ -36,14 +37,14 @@ permalink: /project/
 
 ---
 
-# 01.Computer Architecture
+## 01.Computer Architecture
 
 ### Summary
 
 ### Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
-# 02.Operating System
+## 02.Operating System
 
 ### Summary
 1. `Shell Programming` 구현
@@ -53,11 +54,14 @@ permalink: /project/
 ### Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
-# [1번 GitHub Link](https://github.com/sksk713/os/tree/main/pa1)
-# [2번 GitHub Link](https://github.com/sksk713/os/tree/main/pa2)
-# [3번 GitHub Link](https://github.com/sksk713/os/tree/main/pa3)
+### 1번 Github Link
+[1번 Github Link](https://github.com/sksk713/os/tree/main/pa1)
+### 2번 Github Link
+[2번 Github Link](https://github.com/sksk713/os/tree/main/pa2)
+### 3번 Github Link
+[3번 Github Link](https://github.com/sksk713/os/tree/main/pa3)
 
-# 03.Fixed-Point-Calculator
+## 03.Fixed-Point-Calculator
 
 ### Summary
 Fixed-Point의 다양한 연산들을 Macro로 구현하면서 Linux Programming에 대해 친숙해지고, 유지 및 관리가 용이한 MakeFile을 만들어본다.<br>
@@ -66,5 +70,6 @@ Fixed-Point의 다양한 연산들을 Macro로 구현하면서 Linux Programming
 ### Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
-# [GitHub Link](https://github.com/sksk713/realcoding-fixedpoint)
+### Github Link
+[Github Link](https://github.com/sksk713/realcoding-fixedpoint)
 ---
