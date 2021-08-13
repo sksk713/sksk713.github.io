@@ -67,14 +67,14 @@
   width: 300px;
   color: #505050;
   overflow-y: auto;
-  overflow-x: auto;
+  overflow-x: hidden;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-right: 0px;
-  font-size: 1.0rem;
-  border-left: 3px ridge #010002;
+  font-size: 0.9rem;
+  border-left: 2px ridge #010002;
 
   display: none;
   @media (min-width: 75em){
@@ -94,7 +94,7 @@
     font-weight: bold; 
     transition: all 0.125s ease-in 0s; 
     // transform: scale(1.05); 
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     color: #020202;
   }
 

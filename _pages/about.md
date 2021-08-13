@@ -11,7 +11,3 @@ permalink: /about/
 
 # Experience
 
-# Education
-
-
-
