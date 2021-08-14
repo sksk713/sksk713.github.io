@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "01.객체/오버로딩/생성자"
+title: "[자바의 정석] 객체/오버로딩/생성자"
 author: "SangKyenog Lee"
 tags: Java
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "02.상속/오버라이딩/super"
+title: "[자바의 정석] 상속/오버라이딩/super"
 author: "SangKyenog Lee"
 tags: Java
 ---
