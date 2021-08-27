@@ -22,9 +22,8 @@ permalink: /project/
 [Github Link](https://github.com/ajou-nomad/nomad-backend)
 
 ## 1-2. StudyShare
-asd
 ### 1-2-1. Summary
-asd
+스터디 공유 플랫폼
 ### 1-2-2. Tech
 asd
 ### 1-2-3 Github
@@ -40,39 +39,30 @@ asd
 
 ---
 
-## 2-1. Computer Architecture
-asd
+## 2-1. Operating System
+
 ### 2-1-1. Summary
-asd
-### 2-1-2. Github
-asd
-### 2-1-3. Tech
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
-
-## 2-2. Operating System
-
-### 2-2-1. Summary
 1. `Shell Programming` 구현
 2. `Shortest-Job First`, `Shortest Remaining Time First`, `Round-Robin`, `Priority`, `Priority + aging`, `Priority + PCP Protocol`, `Priority + PIP Protocol` 스케쥴러 구현
 3. `Page allocation`, `Page deallocation`, `Copy-on-Write` 구현
+
+### 2-1-2. Tech
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
+
+### 2-1-3. Github
+[1번 Github Link](https://github.com/sksk713/os/tree/main/pa1)<br>
+[2번 Github Link](https://github.com/sksk713/os/tree/main/pa2)<br>
+[3번 Github Link](https://github.com/sksk713/os/tree/main/pa3)<br>
+
+## 2-2. Fixed-Point-Calculator
+
+### 2-2-1. Summary
+Fixed-Point의 다양한 연산들을 Macro로 구현하면서 Linux Programming에 대해 친숙해지고, 유지 및 관리가 용이한 MakeFile을 만들어본다.<br>
+그 후에, 각각의 연산의 성능 테스트 및 유닛 테스트를 통한 커버리지를 계산한다.
 
 ### 2-2-2. Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
 
 ### 2-2-3. Github
-[1번 Github Link](https://github.com/sksk713/os/tree/main/pa1)<br>
-[2번 Github Link](https://github.com/sksk713/os/tree/main/pa2)<br>
-[3번 Github Link](https://github.com/sksk713/os/tree/main/pa3)<br>
-
-## 2-3. Fixed-Point-Calculator
-
-### 2-3-1. Summary
-Fixed-Point의 다양한 연산들을 Macro로 구현하면서 Linux Programming에 대해 친숙해지고, 유지 및 관리가 용이한 MakeFile을 만들어본다.<br>
-그 후에, 각각의 연산의 성능 테스트 및 유닛 테스트를 통한 커버리지를 계산한다.
-
-### 2-3-2. Tech
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" align="left"><br>
-
-### 2-3-3. Github
 [Github Link](https://github.com/sksk713/realcoding-fixedpoint)
 ---
