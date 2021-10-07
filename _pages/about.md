@@ -29,7 +29,7 @@ permalink: /about/
 <br>
 
 ## 2-4. Tools
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" align="left"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" align="left"><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white" align="left"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" align="left"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" align="left"><br>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" align="left"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" align="left"><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white" align="left"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" align="left"><br>
 
 --- 
 
