@@ -34,3 +34,4 @@ permalink: /about/
 --- 
 
 # 3. Experience
+`2021-09-06 ~ ing` **42Seoul**
