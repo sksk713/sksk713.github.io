@@ -52,10 +52,14 @@ Map
 
 #### Map 인터페이스
 Key, Value를 쌍으로 묶어서 저장하는 컬렉션 클래스를 구현하는데 사용한다. 키는 중복이 불가능하고 값은 중복이 허용되며, 만약 중복된 키로 값이 저장된다면 기존의 값이 사라지고 새로운 값이 저장된다.
+
 ##### 주요 메서드
 Set keySet(): Map에 저장된 모든 key객체를 반환한다.
+
 Collection values(): Map에 저장된 모든 value객체를 반환한다.
+
 Object get(Object key): key객체에 대응하는 value객체 반환
+
 Object put(Object key, Object value): Map에 value객체를 key객체에 연결하여 저장한다.
 
 Key객체는 중복을 허용하지 않기때문에 Set형식, value는 중복을 허용하기 때문에 Collection 형식으로 반환한다.
