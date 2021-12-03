@@ -86,6 +86,7 @@ Tv t = new Caption();
 ### 참조변수간의 형변환
 > - 자손타입 -> 조상타입 : 형변환 생략
 > - 조상타입 -> 자손타입 : 형변환 생략 불가능
+
 ```java
 Car car = null;
 FireEngine fe = new FireEngine();
