@@ -1,6 +1,6 @@
 # Site settings
-title:          Record Everything about Dev!
-description:    "TIL 및 기술 블로그"
+title:          CS 저장소
+description:    "CS 기록"
 baseurl:        ""
 url:            "https://sksk713.github.io"
 
