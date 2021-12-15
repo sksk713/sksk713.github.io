@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "[자바의 정석] 컬렉션 프레임워크"
+title: "05.컬렉션 프레임워크"
 author: "SangKyenog Lee"
 tags: Java
 ---
-
-< Java의 정석 >을 공부하고 정리 했습니다
 
 ## 컬렉션 프레임웍(collections framework)
 > 데이터군을 저장하는 클래스들을 표준화한 설계

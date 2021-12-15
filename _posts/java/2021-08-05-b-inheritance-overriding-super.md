@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "[자바의 정석] 상속/오버라이딩/super"
+title: "02.상속/오버라이딩/super"
 author: "SangKyenog Lee"
 tags: Java
 ---
-
-< Java의 정석 >을 공부하고 정리 했습니다. 
 
 ## 상속
 > 기존의 클래스를 재사용하여 새로운 클래스를 작성한 것

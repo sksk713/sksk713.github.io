@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "[자바의 정석] 제어자/다형성/추상클래스"
+title: "03.제어자/다형성/추상클래스"
 author: "SangKyenog Lee"
 tags: Java
 ---
-
-< Java의 정석 >을 공부하고 정리 했습니다. 
 
 ## 제어자
 

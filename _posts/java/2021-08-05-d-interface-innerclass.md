@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "[자바의 정석] 인터페이스/내부클래스"
+title: "04.인터페이스/내부클래스"
 author: "SangKyenog Lee"
 tags: Java
 ---
-
-< Java의 정석 >을 공부하고 정리 했습니다. 
 
 ## 인터페이스
 > - 인터페이스는 일종의 추상 클래스라고 할 수 있다.

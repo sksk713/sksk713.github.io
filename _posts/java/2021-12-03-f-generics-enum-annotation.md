@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "[자바의 정석] 지네릭스(Generics)/열거형(Enum)/애너테이션(annotation)"
+title: "06.지네릭스(Generics)/열거형(Enum)/애너테이션(annotation)"
 author: "SangKyenog Lee"
 tags: Java
 ---
-
-< Java의 정석 >을 공부하고 정리 했습니다.
 
 # 지네릭스
 지네릭스는 다양한 타입의 객체들을 다루는 메서드나 컬렉션 클래스들의 타입 체크를 컴파일 시에 해주는 기능이다. 컴파일 시에 타입체크를 함으로써, 객체의 타입 안정성을 높이고 형변환의 번거로움이 줄어든다.
