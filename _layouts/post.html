@@ -38,10 +38,10 @@ layout: default
 
 <div class="pagination">
   {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">Previous</a>
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="right arrow">Next</a>
   {% endif %}
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">Next</a>
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="left arrow">Previous</a>
   {% endif %}
 
   <a href="#" class="top">Top</a>
